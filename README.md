@@ -1,3 +1,38 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="CoopRKC Logo" width="140" align="center">
+</p>
+
+<blockquote>
+  <p><strong>S25 - Evidencia de Aprendizaje · Unidad 2: Programación Funcional en Java</strong><br>
+  <strong>Actividad 1, 2 y 3 — Grupo 37</strong><br>
+  Estiven Andrés Trujillo Montiel · Jeremy Iván Pedraza Hernández · Hahiler Esteban Guevara Estrada<br>
+  <strong>Docente:</strong> Ramiro Antonio Giraldo Escobar<br>
+  <strong>Curso:</strong> Programación Orientada a Objetos II — PREICA2502B010090<br>
+  <strong>Programa:</strong> Ingeniería de Software y Datos — Facultad de Ingeniería y Ciencias Agropecuarias<br>
+  <strong>Institución Universitaria Digital de Antioquia</strong> — <strong>2025</strong></p>
+</blockquote>
+
+<!-- Recursos: Videos Actividades 1, 2, 3 y Repositorios 2, 3 -->
+
+<div align="center">
+  <h3>🎓 Recursos de las Actividades</h3>
+  <p>
+    <a href="https://youtu.be/ZowapBpChS4" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 1</a> ·
+    <a href="https://youtu.be/leErN763Poo" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 2</a> ·
+    <a href="#" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 3</a>
+  </p>
+  <p>
+    <a href="https://github.com/Jeremy-Pedraza/proyecto-iudigital-poo.git" target="_blank" rel="noopener noreferrer">📦 Repositorio Actividad 2</a> ·
+    <a href="https://github.com/Jeremy-Pedraza/employee-management-mvc.git" target="_blank" rel="noopener noreferrer">📦 Repositorio Actividad 3</a>
+  </p>
+  <h3>🎓 Recursos Google Drive Drive</h3>
+    <a href="https://drive.google.com/drive/folders/16Y7ih-qP-NlakHIZoYbtVwSaUwDbFcq1?usp=sharing" target="_blank" rel="noopener noreferrer">📦 Drive Actividad 2</a> ·
+    <a href="https://drive.google.com/drive/folders/1tFW_f6ANzBWTz5khA_ihJronMgdjwUu-?usp=sharing" target="_blank" rel="noopener noreferrer">📦 Drive Actividad 2</a> ·
+    <a href="https://drive.google.com/drive/folders/1wW0R4_TZ5i9u2j_lrUyXrCgbqHGwa3TQ?usp=sharing" target="_blank" rel="noopener noreferrer">📦 Drive Actividad 3</a>
+</div>
+
+<hr/>
+
 # 🏢 Employee Management System
 
 Sistema de gestión de empleados desarrollado con **Spring Boot MVC**, aplicando principios **SOLID** y combinando **Programación Orientada a Objetos (POO)** con **Programación Funcional (PF)**.
