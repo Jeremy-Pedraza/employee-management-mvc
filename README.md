@@ -19,7 +19,7 @@
   <p>
     <a href="https://youtu.be/ZowapBpChS4" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 1</a> ·
     <a href="https://youtu.be/leErN763Poo" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 2</a> ·
-    <a href="#" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 3</a>
+    <a href="https://youtu.be/b3ad-UNXWnI" target="_blank" rel="noopener noreferrer">🎬 Video Actividad 3</a>
   </p>
   <p>
     <a href="https://github.com/Jeremy-Pedraza/proyecto-iudigital-poo.git" target="_blank" rel="noopener noreferrer">📦 Repositorio Actividad 2</a> ·
