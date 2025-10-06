@@ -5,7 +5,7 @@
 <blockquote>
   <p><strong>S25 - Evidencia de Aprendizaje · Unidad 2: Programación Funcional en Java</strong><br>
   <strong>Actividad 1, 2 y 3 — Grupo 37</strong><br>
-  Estiven Andrés Trujillo Montiel · Jeremy Iván Pedraza Hernández · Hahiler Esteban Guevara Estrada<br>
+  Estiven Andrés Trujillo Montiel · Jeremy Iván Pedraza Hernández ·<br>
   <strong>Docente:</strong> Ramiro Antonio Giraldo Escobar<br>
   <strong>Curso:</strong> Programación Orientada a Objetos II — PREICA2502B010090<br>
   <strong>Programa:</strong> Ingeniería de Software y Datos — Facultad de Ingeniería y Ciencias Agropecuarias<br>
